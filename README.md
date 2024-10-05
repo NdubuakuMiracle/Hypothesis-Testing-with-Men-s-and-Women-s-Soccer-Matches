@@ -46,16 +46,6 @@ A significance level of 10% (α = 0.10) will be employed for the hypothesis test
 - Statistical evidence supporting or refuting the assumption that more goals are scored in women's international soccer matches than in men's.  
 - Insightful analysis that can be presented in a compelling article for your audience.  
 
-## Requirements  
-
-To carry out this project, I utilized the following libraries:  
-
-- pandas  
-- numpy  
-- scipy  
-- matplotlib  
-- seaborn  
-
 ## Conclusion  
 
 This investigation into the goal-scoring patterns in men's and women's international soccer matches aims to provide a data-backed perspective for sports reporting, offering valuable insights for fans and analysts alike.
