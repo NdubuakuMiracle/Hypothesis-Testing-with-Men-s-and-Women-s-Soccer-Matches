@@ -48,4 +48,4 @@ A significance level of 10% (α = 0.10) will be employed for the hypothesis test
 
 ## Conclusion  
 
-This investigation into the goal-scoring patterns in men's and women's international soccer matches aims to provide a data-backed perspective for sports reporting, offering valuable insights for fans and analysts alike.
+This investigation into the goal-scoring patterns in men's and women's international soccer matches as I aimed to provide a data-backed perspective for sports reporting, offering valuable insights for fans and analysts alike.
